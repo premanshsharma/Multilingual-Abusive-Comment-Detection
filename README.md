@@ -1,5 +1,6 @@
 # Multilingual-Abusive-Comment-Detection
 Link of Dataset:- https://www.kaggle.com/competitions/multilingualabusivecomment/data
+
 Link of Jupyter Notebook containing code and outputs:- https://github.com/premanshsharma/Multilingual-Abusive-Comment-Detection/blob/main/ANN_ML.ipynb
 ## Overview
 Abusive Comment Detection is a project that focuses on identifying and classifying abusive comments in multiple languages. The dataset used for training and evaluation consists of 1.5 million comments in 16 different languages: Telugu, Tamil, Malayalam, Hindi, Kannada, Bengali, Bhojpuri, English, Odia, Punjabi, Marathi, Gujarati, Rajasthani, Haryanvi, Urdu, and Assamese.
