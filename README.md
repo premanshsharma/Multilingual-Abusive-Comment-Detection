@@ -24,7 +24,7 @@ accuracy: 0.679
 accuracy: 0.677
 ![download](https://github.com/premanshsharma/Multilingual-Abusive-Comment-Detection/assets/71265310/fbe57eb6-9edd-4ed5-955e-ac307c6fcefb)
 
-### Machine Learning:- Best Algorithm =  with an accuracy of 
+### Machine Learning:- Best Algorithm = Naive Bayes Classifier with an accuracy of 0.8490626671 
 #### Combined outputs of all machine learning algorithms
 
 ![image](https://github.com/premanshsharma/Multilingual-Abusive-Comment-Detection/assets/71265310/ea3e0b05-a905-4d68-9427-c72892297061)
