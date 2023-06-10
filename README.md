@@ -6,7 +6,7 @@ Abusive Comment Detection is a project that focuses on identifying and classifyi
 
 The project achieved an accuracy of 84.9 percent using the Naive Bayes algorithm. The implementation is done in Python, leveraging its rich ecosystem for machine learning and natural language processing tasks. Alongside Naive Bayes, the project utilizes various other machine learning algorithms, including Multinomial Naive Bayes, Logistic Regression with solvers such as lbfgs, liblinear, and newton-cg, k-Nearest Neighbors (KNN) with k values ranging from 1 to 5, Random Forest, and neural network architectures such as LSTM, CNN, Deep Neural Network (DNN), and GRM. This ensemble of algorithms contributes to accurate detection and classification of abusive comments across different languages.
 
-## Outputs:-
+## Outputs:- Best algorithm = Naive Bayes Classifier with an accuracy of 0.8490626671 
 ### Deep Learning:- Best Architecture = GRM with an accuracy of 0.784
 #### GRM
 accuracy:  0.784
